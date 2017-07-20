@@ -1,0 +1,8 @@
+{
+  "name": "@scope/a",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@scope/b": "*"
+  }
+}
